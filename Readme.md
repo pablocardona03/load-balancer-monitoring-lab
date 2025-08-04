@@ -25,7 +25,6 @@ project-root/
         └── prometheus/                # Prometheus configuration files
 ```
 
-
 ## 🚀 Features
 
 - Multi-VM setup using Vagrant
